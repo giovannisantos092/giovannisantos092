@@ -19,7 +19,7 @@
 ![Giovanni GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannisantos092&show_icons=true&theme=radical)
 
 
-💻 Cursando Analise de sistema de informação e aperfeiçoando todos os dias meus conhecimentos em busca da primeira oportunidade na area de tecnologia.
+💻 Cursando Analise de Desenvolvimento de Sistemas e aperfeiçoando todos os dias meus conhecimentos em busca da primeira oportunidade na area de tecnologia.
 
 ### MUITO OBRIGADO PELA VISITA!
 
