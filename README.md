@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">No momento estou estudando:</h2>
+<h2 align="left">I'm currently studying:</h2>
 
 ###
 
